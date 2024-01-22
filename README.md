@@ -1,10 +1,8 @@
 ## 💜 Olá, meu nome é Allan!
 
-Atuamente Engenheiro de software Front End criando aplicações Webview, Micro Frontend, usando algumas das tecnologias abaixo:
-- Angular
-- NGXS
-- Jest
-- Cypress
+
+Como engenheiro de software frontend, meu trabalho consiste em desenvolver aplicações inovadoras para plataformas web e mobile, proporcionando experiências envolventes e eficientes aos usuários. Minha jornada profissional tem sido marcada pela busca constante por excelência no desenvolvimento de software.
+
 
 ---
 
